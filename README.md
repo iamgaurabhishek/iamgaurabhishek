@@ -1,6 +1,10 @@
 ## Hi My name is Abhishek Gaur 👋🙌
 
 ### A Web Developer | Student at Humber College | Sports and Reading | My motivation is to see what is impossible and to move my work gauge to make it possible.
+
+#### You can connect me through:
+1. Linkedin : [click here](https://www.linkedin.com/in/abhishek-gaur-316a88252/)
+2. Instagram ID : iamgaurabhishek
 ![UX-UI -image learned from figma](UX-UI-image.jpg)
 **iamgaurabhishek/iamgaurabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
